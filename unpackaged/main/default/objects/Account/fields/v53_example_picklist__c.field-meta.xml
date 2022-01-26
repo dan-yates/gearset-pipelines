@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>v53_example_picklist__c</fullName>
+    <description>Example v53 picklist for testing in compare and deploy.</description>
+    <externalId>false</externalId>
+    <label>v53 example picklist</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>a</fullName>
+                <default>true</default>
+                <label>a</label>
+            </value>
+            <value>
+                <fullName>is</fullName>
+                <default>false</default>
+                <label>is</label>
+            </value>
+            <value>
+                <fullName>picklist</fullName>
+                <default>false</default>
+                <label>picklist</label>
+            </value>
+            <value>
+                <fullName>test</fullName>
+                <default>false</default>
+                <label>test</label>
+            </value>
+            <value>
+                <fullName>this</fullName>
+                <default>false</default>
+                <label>this</label>
+            </value>
+            <value>
+                <fullName>to</fullName>
+                <default>false</default>
+                <label>to</label>
+            </value>
+            <value>
+                <fullName>v53</fullName>
+                <default>false</default>
+                <label>v53</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
