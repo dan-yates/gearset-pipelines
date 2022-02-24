@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pipelines_Example__c</fullName>
+    <description>I'm making this as a test for pipelines, I want to try and get this into production through staging!</description>
+    <externalId>false</externalId>
+    <label>Pipelines Example</label>
+    <length>10</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
