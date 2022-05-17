@@ -16,10 +16,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>PartyRoleId</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>DataUsePurposeId</field>
             </layoutItems>
             <layoutItems>
@@ -45,10 +41,6 @@
                 <field>ContactPointType</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>BusinessBrandId</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Required</behavior>
                 <field>PrivacyConsentStatus</field>
             </layoutItems>
@@ -71,7 +63,7 @@
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
-        <layoutColumns/>
+        <layoutColumns />
         <style>CustomLinks</style>
     </layoutSections>
     <relatedLists>
