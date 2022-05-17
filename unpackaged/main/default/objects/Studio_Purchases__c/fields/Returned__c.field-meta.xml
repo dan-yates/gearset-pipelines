@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Returned__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Has this product been returned?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Tick this box if this product has been returned due to it being faulty, etc.</inlineHelpText>
+    <label>Returned?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
